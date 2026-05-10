@@ -81,7 +81,7 @@ St. Xavier's College of Management & Technology, Patna
 
 ## 📄 Resume
 
-📥 [Download Resume (PDF)](https://github.com/Piyush-Analytics/resume/blob/main/Piyush_Kumar_Resume.pdf)
+📥 [Download Resume (PDF)](https://github.com/Piyush-Analytics/Resume-/blob/main/Piyush_Kumar_Resume.pdf%20(1).pdf)
 
 ---
 
